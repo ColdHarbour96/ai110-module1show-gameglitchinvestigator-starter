@@ -54,7 +54,7 @@ Glitchy Guesser is a number guessing game built with Streamlit. The player selec
 
 ## 📸 Demo
 
-- [ ] [success.png]
+- [ ] [Winning game screenshot](success.png)
 
 ## 🚀 Stretch Features
 
